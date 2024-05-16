@@ -1,4 +1,5 @@
 <div align="center">
+<a href = "https://github.com/JxmieeB"><img src="https://capsule-render.vercel.app/api?section=header&type=waving&color=0:FF0066,75:FF0066,100:FF0066" width = "100%"/></a>
     
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Bebas+Neue&size=37&duration=3000&pause=1000&color=FF0066&center=true&vCenter=true&width=500&height=60&lines=Welcome+to+my+Profile;I'm+JxmieeB+aka.+Jamie;)](https://github.com/JxmieeB)
 </div>
@@ -22,7 +23,6 @@ const jxmieeb  = {
 ```
 
 ## 💻 Languages & Skills
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=twist0R&theme=github_dark)](https://github.com/JxmieeB)
 [![Skills](https://skillicons.dev/icons?i=html,php,css,js,ts,react,bootstrap,svg,lua,mysql,nodejs,java,bots,git,jquery,blender,azure,vscode&theme=dark)](https://github.com/JxmieeB)
 <br>
  <h2 align="center">Discord Profile</h2><br>
