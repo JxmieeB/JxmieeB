@@ -1,16 +1,38 @@
-### Hi there 👋
+<div align="center">
+    
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Bebas+Neue&size=37&duration=3000&pause=1000&color=FF0066&center=true&vCenter=true&width=500&height=60&lines=Welcome+to+my+Profile;I'm+JxmieeB+aka.+Jamie;)](https://github.com/JxmieeB)
+</div>
+    
+###  <img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" height="20"> **aboutMe.js**
 
-<!--
-**JxmieeB/JxmieeB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```javascript
+const jxmieeb  = {
+    Name: "Jamie",
+    Age: 28,
+    Gender: "Male",
+    From: ["Belfast", "Northern Ireland"],
+    AskMeAbout:  {
+      achievements: ["Multi-language Programmer", "Washed FPS Player"],
+        },
+    technologies: {
+        databases: ["MySql","SQLite","MariaDB", "MongoDB],
+        Languages: ["Lua", "TypeScript", "Vue.js"]
+    },
+    currentProjects: "Ethos RP",
+};
+```
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Languages & Skills
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=twist0R&theme=github_dark)](https://github.com/JxmieeB)
+[![Skills](https://skillicons.dev/icons?i=html,php,flutter,css,js,ts,react,bootstrap,svg,lua,mysql,sqlite,nodejs,python,java,bots,git,jquery,cs,cpp,blender,azure,arduino,angular,linux,vscode&theme=dark)](https://github.com/JxmieeB)
+<br>
+ <h2 align="center">Discord Profile</h2><br>
+  <p align="center">
+    <a href="https://discord.gg/">
+        <img title="EthosRP server discord" alt="jxmieeb's discord" src="https://discord.c99.nl/widget/theme-2/124258267370094592.png"/>
+    </a>
+</p>
+  <p align="center">
+  <i>&nbsp; "Sometimes the darkest roads lead to the brightest destinations"</i> 
+ </div>
+<a href = "https://github.com/JxmieeB"><img src="https://capsule-render.vercel.app/api?section=footer&type=waving&color=0:00c7ad,75:6e97fd,100:FF0066" width = "100%"/></a>
