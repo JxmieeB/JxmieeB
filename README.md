@@ -17,7 +17,7 @@ const jxmieeb  = {
     technologies: {
         databases: ["MySql","SQLite","MariaDB", "MongoDB]
     },
-    currentProjects: "Ethos RP",
+    currentProjects: "EthosRP",
 };
 ```
 
