@@ -16,7 +16,7 @@ const jxmieeb  = {
         },
     technologies: {
         databases: ["MySql","SQLite","MariaDB", "MongoDB],
-        Languages: ["Lua", "TypeScript", "Vue.js"]
+        Languages: ["lua", "TypeScript", "Vue.js"]
     },
     currentProjects: "Ethos RP",
 };
