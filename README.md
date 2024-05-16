@@ -15,8 +15,7 @@ const jxmieeb  = {
       achievements: ["Multi-language Programmer", "Washed FPS Player"],
         },
     technologies: {
-        databases: ["MySql","SQLite","MariaDB", "MongoDB],
-        Languages: ["lua", "TypeScript", "Vue.js"]
+        databases: ["MySql","SQLite","MariaDB", "MongoDB]
     },
     currentProjects: "Ethos RP",
 };
@@ -24,7 +23,7 @@ const jxmieeb  = {
 
 ## 💻 Languages & Skills
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=twist0R&theme=github_dark)](https://github.com/JxmieeB)
-[![Skills](https://skillicons.dev/icons?i=html,php,flutter,css,js,ts,react,bootstrap,svg,lua,mysql,sqlite,nodejs,python,java,bots,git,jquery,cs,cpp,blender,azure,arduino,angular,linux,vscode&theme=dark)](https://github.com/JxmieeB)
+[![Skills](https://skillicons.dev/icons?i=html,php,css,js,ts,react,bootstrap,svg,lua,mysql,nodejs,java,bots,git,jquery,blender,azure,vscode&theme=dark)](https://github.com/JxmieeB)
 <br>
  <h2 align="center">Discord Profile</h2><br>
   <p align="center">
