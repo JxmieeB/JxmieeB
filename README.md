@@ -27,7 +27,7 @@ const jxmieeb  = {
 <br>
  <h2 align="center">Discord Profile</h2><br>
   <p align="center">
-    <a href="https://discord.gg/">
+    <a href="https://discord.gg/ethosrp">
         <img title="EthosRP server discord" alt="jxmieeb's discord" src="https://discord.c99.nl/widget/theme-2/124258267370094592.png"/>
     </a>
 </p>
