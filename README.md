@@ -35,4 +35,4 @@ const jxmieeb  = {
   <p align="center">
   <i>&nbsp; "Sometimes the darkest roads lead to the brightest destinations"</i> 
  </div>
-<a href = "https://github.com/JxmieeB"><img src="https://capsule-render.vercel.app/api?section=footer&type=waving&color=0:FF0066,75:6e97fd,100:FF0066" width = "100%"/></a>
+<a href = "https://github.com/JxmieeB"><img src="https://capsule-render.vercel.app/api?section=footer&type=waving&color=0:FF0066,75:FF0066,100:FF0066" width = "100%"/></a>
