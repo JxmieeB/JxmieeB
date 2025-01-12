@@ -9,7 +9,7 @@
 ```javascript
 const jxmieeb  = {
     Name: "Jamie",
-    Age: 28,
+    Age: 29,
     Gender: "Male",
     From: ["Belfast", "Northern Ireland"],
     AskMeAbout:  {
@@ -18,19 +18,13 @@ const jxmieeb  = {
     technologies: {
         databases: ["MySql","SQLite","MariaDB", "MongoDB]
     },
-    currentProjects: "EthosRP",
+    currentProjects: "Project Cypher RP", "OceanScripts",
 };
 ```
 
 ## 💻 Languages & Skills
 [![Skills](https://skillicons.dev/icons?i=html,php,css,js,ts,react,bootstrap,svg,lua,mysql,nodejs,java,bots,git,jquery,blender,azure,vscode&theme=dark)](https://github.com/JxmieeB)
 <br>
- <h2 align="center">Discord Profile</h2><br>
-  <p align="center">
-    <a href="https://discord.gg/ethosrp">
-        <img title="EthosRP server discord" alt="jxmieeb's discord" src="https://discord.c99.nl/widget/theme-2/124258267370094592.png"/>
-    </a>
-</p>
   <p align="center">
   <i>&nbsp; "Sometimes the darkest roads lead to the brightest destinations"</i> 
  </div>
